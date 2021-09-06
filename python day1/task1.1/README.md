@@ -1,4 +1,4 @@
-Program to read a file and store the unique words in a list sorted based on the length of word in a new file along with each word length appended to it.
+#Program to read a file and store the unique words in a list sorted based on the length of word in a new file along with each word length appended to it.
 Input: day 1 task 1 is the input file name which consists of some lines of text.
 Output: task11 is the output file 
 hi 2
